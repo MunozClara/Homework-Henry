@@ -13,8 +13,8 @@ function productoEntreNúmeros(a, b) {
       return 0;
     }
   }
-
   return total;
+  
 }
 
 
