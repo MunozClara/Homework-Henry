@@ -8,7 +8,7 @@ function invocarCallback(cb) {
       return this.prop;
       },
    }; 
-   console.log(test.func());
+
 }
 
 module.exports = invocarCallback;
